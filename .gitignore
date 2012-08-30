@@ -36,3 +36,20 @@
 Icon?
 ehthumbs.db
 Thumbs.db
+
+# Node Stuff #
+##############
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
