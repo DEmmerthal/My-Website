@@ -3,7 +3,7 @@
 	margin-bottom: 100px;
 }
 
-.masthead h2{ 
+.masthead h1{ 
 	margin: 60px 0 10px;
 	font-size: 60px;
 	font-weight: 200;
@@ -11,7 +11,15 @@
 	letter-spacing: -1px;
 }
 
-.masthead p {
+.content h1{
+	font-size: 40px;
+	font-weight: 600;
+	line-height: 1;
+}
+.content h2{
+	font-weight: 200;
+}
+.masthead p, .content p {
 	font-size: 16px;
 	line-height: 1.5;
 }
